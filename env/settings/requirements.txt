@@ -1,0 +1,12 @@
+jupyter
+matplotlib==3.3.4
+pandas==1.2.3
+numpy==1.20.1
+scipy==1.6.1
+scikit-learn==0.24.1
+argparse==1.4.0
+progressbar2==3.53.1
+tqdm==4.59.0
+lightgbm==3.1.1
+seaborn==0.11.1
+POT==0.7.0
