@@ -1,6 +1,11 @@
 # Hidden Subdomain Adaptation with Variable Number of Subdomains (HSAV)
 
 
+
+The source code has been used by the following paper:
+> Luxin Zhang, Pascal Germain, Yacine Kessaci, Christophe Biernacki.
+> Interpretable Domain Adaptation for Hidden Subdomain Alignment in the Context of Pre-trained Source Models
+> *AAAI*, 2022.
 ## Content
 
 * ``./data`` contains the preprocessed datasets of Kaggle fraud detection tasks.
